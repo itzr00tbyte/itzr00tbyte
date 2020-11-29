@@ -1,4 +1,4 @@
-### Hello There This is @R0otByte
+### Hello There This is Snehith_Chowdary
 
 - 🔭 I’m currently working on Termux-projects
 - 🌱 I’m currently learning Python+Bash
@@ -12,6 +12,6 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=itzr00tbyte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzr00tbyte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-# 🙄🙄Now I am NOOB May Be Now But I will Change My Tag One Day Waiting For That Day😁
+<h1 align="center" 🙄🙄Now I am NOOB May Be Now But I will Change My Tag One Day Waiting For That Day😁
