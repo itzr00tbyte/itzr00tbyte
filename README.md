@@ -1,4 +1,5 @@
-### Hello There This is Snehith_Chowdary
+### Hello There This is Snehith_Chowdary <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
 
 - 🔭 I’m currently working on Termux-projects
 - 🌱 I’m currently learning Python+Bash
