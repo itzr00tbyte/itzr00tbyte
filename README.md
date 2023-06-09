@@ -1,5 +1,8 @@
 <div>
-<h1 align="center">Hi 👋, I'm Snehith Chowdary<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="80"></h1>
+<h1 align="center">Hoi 👋, I'm Snehith Chowdary<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="80"></h1>
+<center>
+<img src="./Assets/Bobby.png" alt="Coding Avtar" width="500" >
+</center>
 <h3 align="center">A passionate Cyber Security Analyst from India</h3>
 </div>
 
