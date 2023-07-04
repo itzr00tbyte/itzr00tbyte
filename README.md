@@ -3,7 +3,7 @@
 
 <p align="center"><img src="./Assets/Bobby.png" alt="Coding Avtar" width="500"></p>
 
-<h3 align="center">A passionate Cyber Security Analyst from India</h3>
+<h3 align="center">A passionated Cyber Security Analyst from India</h3>
 </div>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzr00tbyte&label=Profile%20views&color=0e75b6&style=flat" alt="itzr00tbyte" /> </p>
