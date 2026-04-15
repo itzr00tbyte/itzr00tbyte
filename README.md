@@ -1,65 +1,87 @@
-<div>
-<h1 align="center">Hey 👋, I'm Snehith Chalasani</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Developer • Agency Founder • Building End-to-End Digital Systems</h3>
+<h1>Hey 👋, I'm Snehith Chalasani</h1>
+
+<h2>Designer at heart. Developer by profession.</h2>
+
+<h3>Building scalable, end-to-end digital systems for modern businesses</h3>
+
+<img src="./Assets/Bobby.png" alt="Coding Avatar" width="400"/>
+
 </div>
 
-<p align="center">
-  <img src="./Assets/Bobby.png" alt="Coding Avatar" width="400">
-</p>
+---
+
+## 🚀 What I Do
+I design and build complete digital solutions — from idea to deployment.
+
+- UI/UX design focused on clarity and conversion  
+- Frontend systems with scalable architecture  
+- Backend development & API integrations  
+- Security-aware development and basic cybersecurity practices  
+- Full project ownership: planning → execution → delivery  
 
 ---
 
-### 🚀 What I Do
-- Build complete digital systems for businesses (frontend → backend → deployment)
-- Design clean, conversion-focused UI/UX
-- Handle projects end-to-end: planning, development, delivery
+## 🧠 Current Focus
+- Scaling **InboxTales**  
+- Building production-ready apps with **Next.js + Node.js**  
+- Exploring **Spring Boot** for scalable backend systems  
+- Strengthening skills in **Cybersecurity & secure system design**  
 
 ---
 
-### 🧠 Current Focus
-- Scaling **InboxTales**
-- Building production-grade apps with **Next.js + Node.js**
-- Exploring **Spring Boot** for scalable backend systems
+## 🔐 Cybersecurity
+- Understanding of web vulnerabilities (OWASP basics)  
+- Secure coding practices for web applications  
+- Experience with Linux environments and system-level operations  
+- Focus on building **secure-by-default applications**  
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
+
 **Frontend**
-- React, Next.js, HTML, CSS, JavaScript  
+- React, Next.js  
+- HTML, CSS, JavaScript  
 
 **Backend**
 - Node.js, PHP, Python, Spring Boot  
 
 **Database**
-- MySQL, MongoDB, Supabase, Firebase  
+- MySQL, MongoDB  
+- Supabase, Firebase  
 
-**Design & Tools**
-- Figma, Adobe Creative Cloud  
-
----
-
-### 📂 Featured Work
-- 🔧 End-to-end business websites & dashboards  
-- 🎨 UI/UX systems with real-world usability  
-- ⚙️ Custom backend + API integrations  
-
-(Explore more → https://github.com/itzr00tbyte?tab=repositories)
+**Design**
+- Figma  
+- Adobe Creative Cloud  
 
 ---
 
-### 🤝 Work With Me
-- End-to-end website / web app development  
-- UI/UX design + frontend implementation  
+## 📂 Work Highlights
+- End-to-end websites and web apps for businesses  
+- UI/UX systems built for real users, not just visuals  
+- Custom dashboards, admin panels, and integrations  
+
+Explore more:  
+👉 https://github.com/itzr00tbyte?tab=repositories  
+
+---
+
+## 🤝 Work With Me
+If you're looking to build or scale a digital product:
+
+- Web apps & platforms  
+- UI/UX + frontend systems  
 - Business digitization & automation  
 
 ---
 
-### 📫 Contact
-- Email: itzr00tbyte@gmail.com  
-- LinkedIn: https://linkedin.com/in/snehith-chowdary-153aa5200  
+## 📫 Contact
+- Email: snehith@inboxtales.com  
+- LinkedIn: https://www.linkedin.com/in/snehith-chalasani/  
 
 ---
 
-### ⚡ Note
-I focus on shipping real, usable systems — not just code.
+## ⚡ Philosophy
+I build systems that are clean, scalable, and actually get used — with security and performance in mind.
