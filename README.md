@@ -64,7 +64,7 @@ I design and build complete digital solutions — from idea to deployment.
 - Custom dashboards, admin panels, and integrations  
 
 Explore more:  
-👉 https://github.com/itzr00tbyte?tab=repositories  
+👉 https://github.com/itzr00tbyte
 
 ---
 
@@ -84,4 +84,4 @@ If you're looking to build or scale a digital product:
 ---
 
 ## ⚡ Philosophy
-I build systems that are clean, scalable, and actually get used — with security and performance in mind.
+I build systems that are clean, scalable, and actually get used with security and performance in mind.
